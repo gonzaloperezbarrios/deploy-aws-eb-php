@@ -6,6 +6,7 @@
 
  - [Python](https://www.python.org/downloads/release/python-371/) 
  - [pip](https://pip.pypa.io/en/stable/installing/)
+ - El archivo composer.json debe estar en la raíz del proyecto, para que beanstalk instale composer
 
 ## Instalación 
 
